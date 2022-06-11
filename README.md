@@ -1,6 +1,6 @@
 ## Ola! Meu nome e Jeferson Filipi 
 
-- 🌱 Estudando Angular | JavaScript | C# | .NET | MongoDB
+- 🌱 Estudando Angular | C# | .NET | MongoDB
 - 📫 Contateme no e-mail: jeferson.filipi@yahoo.com.br
 - 🧑‍💻 Estou Cursando Análise e Desenvolvimento de Sistemas
 
