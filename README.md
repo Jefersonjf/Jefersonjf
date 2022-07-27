@@ -4,11 +4,6 @@
 - 📫 Contateme no e-mail: jeferson.filipi@yahoo.com.br
 - 🧑‍💻 Estou Cursando Análise e Desenvolvimento de Sistemas
 
-<div align="center">
-  <a href="https://github.com/Jefersonjf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jefersonjf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefersonjf&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
   ## Habilidades
 
@@ -32,6 +27,17 @@
 
 <code><img height="65" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
 
+  
+ **Utilities**
+
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"/></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" /></code>
+
+<div align="center">
+  <a href="https://github.com/Jefersonjf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jefersonjf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefersonjf&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
   ##
  
