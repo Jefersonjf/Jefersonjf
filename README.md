@@ -8,14 +8,6 @@
   
   ## Habilidades
 
-**Front-End**
-
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-
 
 **Back-End**
 
