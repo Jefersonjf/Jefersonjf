@@ -19,7 +19,7 @@
 **Database**
 
 <code><img height="65" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"></code>
-
+<code><img height="65" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"></code>
   
  **Utilities**
 
