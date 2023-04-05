@@ -2,7 +2,7 @@
 
 - 🌱 C# | .NET | MongoDB
 - 📫 Contateme no e-mail: jeferson.filipi@yahoo.com.br
-- 🧑‍💻 Estou Cursando Análise e Desenvolvimento de Sistemas
+- 🧑‍💻 Análise e Desenvolvimento de Sistemas
 
 <br>
   
